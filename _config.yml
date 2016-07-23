@@ -1,0 +1,28 @@
+name: LynxAlexander.com
+favicon: null
+layout_spectrum: 0.15266167814843357
+typography_spectrum: 0.38335609110072255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7804290619678795
+  lightness: 0.18669697549194098
+  saturation: 0.25856057391501963
+  rhythmicContrast: 0.8914333949796855
+purpose: []
